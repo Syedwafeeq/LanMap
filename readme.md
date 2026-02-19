@@ -1,5 +1,3 @@
-Sure! Here’s an **attractive, professional README** you can use for your **[LanMap GitHub repository homepage](https://github.com/Syedwafeeq/LanMap.git)**. You can copy & paste this into your `README.md` to make it stand out:
-
 ---
 
 # 🚀 LanMap — Simple LAN Scanner in Python
@@ -112,7 +110,3 @@ Let’s make LanMap smarter, faster, and more powerful! 🚀
 This project is open source — feel free to use, modify, and distribute.
 
 ---
-
-Would you like a **GitHub badge pack** (stars, forks, license) added too? I can generate those for your README!
-
-[1]: https://github.com/Syedwafeeq/LanMap.git "GitHub - Syedwafeeq/LanMap: This is a basic python script with main function to scan the network present connected to , requires only the gateway of the network , It is a scalable script and also can be easily inserted into any other scripts requiring the basic scan of the network for devices or nodes on it ."
